@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T08:06:27.983Z",
+  "updatedAt": "2026-08-25T10:16:50.796Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -2594,16 +2594,16 @@
       "tier": 1
     },
     {
-      "name": "Hassan Haskins",
-      "team": "NE",
-      "pos": "RB",
+      "name": "Jermaine Burton",
+      "team": "",
+      "pos": "WR",
       "adp": "616.1",
       "tier": 1
     },
     {
-      "name": "Jermaine Burton",
-      "team": "",
-      "pos": "WR",
+      "name": "Hassan Haskins",
+      "team": "NE",
+      "pos": "RB",
       "adp": "616.1",
       "tier": 1
     },
@@ -3952,16 +3952,16 @@
       "tier": 21
     },
     {
-      "name": "Lan Larison",
-      "team": "NE",
-      "pos": "RB",
+      "name": "John Wolford",
+      "team": "",
+      "pos": "QB",
       "adp": "1257.8",
       "tier": 21
     },
     {
-      "name": "John Wolford",
-      "team": "",
-      "pos": "QB",
+      "name": "Lan Larison",
+      "team": "NE",
+      "pos": "RB",
       "adp": "1257.8",
       "tier": 21
     },
@@ -3980,15 +3980,15 @@
       "tier": 22
     },
     {
-      "name": "Noah Whittington",
-      "team": "HOU",
+      "name": "Jeff Wilson Jr.",
+      "team": "",
       "pos": "RB",
       "adp": "1269.7",
       "tier": 22
     },
     {
-      "name": "Jeff Wilson Jr.",
-      "team": "",
+      "name": "Noah Whittington",
+      "team": "HOU",
       "pos": "RB",
       "adp": "1269.7",
       "tier": 22
