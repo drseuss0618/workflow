@@ -31,7 +31,7 @@ if (!API_KEY) {
 const SEASON = process.env.ADP_SEASON || '2026';
 
 // Confirm this path in your SportsDataIO dashboard before relying on it.
-const ADP_ENDPOINT = `https://api.sportsdata.io/v3/nfl/stats/json/ADPPPRByWeek/${SEASON}/1`;
+const ADP_ENDPOINT = 'https://api.sportsdata.io/v3/nfl/stats/json/FantasyPlayers';
 
 const OUTPUT_PATH = path.join(__dirname, 'data', 'rankings.json');
 
