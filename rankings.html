@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Best Ball Rankings — Draft Board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#14201A;
+    --panel:#1C2A21;
+    --panel-hi:#233227;
+    --line:#33453A;
+    --cream:#EDE6D6;
+    --sage:#93A491;
+    --gold:#C89B3C;
+    --qb:#C1443C;
+    --rb:#3E8C6E;
+    --wr:#3E7C9C;
+    --te:#A97C4F;
+    --radius:3px;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:
+      radial-gradient(circle at 15% 0%, rgba(200,155,60,0.05), transparent 40%),
+      repeating-linear-gradient(
+        0deg,
+        rgba(237,230,214,0.025) 0px,
+        rgba(237,230,214,0.025) 2px,
+        transparent 2px,
+        transparent 90px
+      ),
+      repeating-linear-gradient(
+        90deg,
+        rgba(237,230,214,0.014) 0px,
+        rgba(237,230,214,0.014) 1px,
+        transparent 1px,
+        transparent 14px
+      ),
+      var(--bg);
+    background-attachment:fixed;
+    color:var(--cream);
+    font-family:'IBM Plex Mono', monospace;
+    -webkit-font-smoothing:antialiased;
+    position:relative;
+  }
+  /* faint yard-number watermark, football-field feel without fighting content */
+  body::before{
+    content:"";
+    position:fixed;
+    inset:0;
+    pointer-events:none;
+    background-image:
+      radial-gradient(ellipse 900px 500px at 50% -10%, rgba(200,155,60,0.05), transparent 60%);
+    z-index:0;
+  }
+  header, .controls, main, footer{
+    position:relative;
+    z-index:1;
+  }
+  h1,h2,h3,.display{
+    font-family:'Oswald', sans-serif;
+    text-transform:uppercase;
+    letter-spacing:0.03em;
+  }
+
+  /* ---- Header ---- */
+  header{
+    padding:2.5rem 1.5rem 1.75rem;
+    border-bottom:1px solid var(--line);
+    max-width:960px;
+    margin:0 auto;
+    position:relative;
+    overflow:hidden;
+  }
+  header::after{
+    content:"50";
+    position:absolute;
+    top:-1.2rem;
+    right:0.5rem;
+    font-family:'Oswald', sans-serif;
+    font-weight:700;
+    font-size:9rem;
+    line-height:1;
+    color:rgba(237,230,214,0.03);
+    letter-spacing:-0.02em;
+    pointer-events:none;
+    user-select:none;
+  }
+  .eyebrow{
+    font-size:0.72rem;
+    letter-spacing:0.22em;
+    color:var(--gold);
+    text-transform:uppercase;
+    margin:0 0 0.6rem;
+    display:flex;
+    align-items:center;
+    gap:0.6rem;
+  }
+  .eyebrow::before{
+    content:"";
+    width:22px;height:1px;
+    background:var(--gold);
+    display:inline-block;
+  }
+  h1{
+    font-size:clamp(1.9rem, 5vw, 3rem);
+    font-weight:700;
+    margin:0 0 0.5rem;
+    line-height:1.02;
+  }
+  .sub{
+    color:var(--sage);
+    font-size:0.92rem;
+    max-width:46ch;
+    line-height:1.5;
+    margin:0;
+  }
+  .meta-row{
+    display:flex;
+    gap:1.5rem;
+    margin-top:1.4rem;
+    font-size:0.72rem;
+    color:var(--sage);
+    letter-spacing:0.04em;
+  }
+  .meta-row strong{color:var(--cream);font-weight:500;}
+
+  /* ---- Controls ---- */
+  .controls{
+    max-width:960px;
+    margin:1.5rem auto 0;
+    padding:0 1.5rem;
+    display:flex;
+    flex-wrap:wrap;
+    gap:0.6rem;
+    align-items:center;
+  }
+  .pos-tab{
+    background:var(--panel);
+    border:1px solid var(--line);
+    color:var(--sage);
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.74rem;
+    letter-spacing:0.05em;
+    padding:0.5rem 0.9rem;
+    border-radius:var(--radius);
+    cursor:pointer;
+    transition:all 0.15s ease;
+  }
+  .pos-tab:hover{border-color:var(--sage);color:var(--cream);}
+  .pos-tab.active{
+    background:var(--panel-hi);
+    color:var(--cream);
+    border-color:var(--gold);
+  }
+  .pos-tab[data-pos="QB"].active{border-color:var(--qb);}
+  .pos-tab[data-pos="RB"].active{border-color:var(--rb);}
+  .pos-tab[data-pos="WR"].active{border-color:var(--wr);}
+  .pos-tab[data-pos="TE"].active{border-color:var(--te);}
+
+  .search{
+    margin-left:auto;
+    background:var(--panel);
+    border:1px solid var(--line);
+    color:var(--cream);
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.78rem;
+    padding:0.5rem 0.8rem;
+    border-radius:var(--radius);
+    width:180px;
+  }
+  .search::placeholder{color:var(--sage);}
+  .search:focus{outline:none;border-color:var(--gold);}
+
+  /* ---- Board ---- */
+  main{max-width:960px;margin:0 auto;padding:2rem 1.5rem 4rem;}
+
+  .tier{margin-bottom:2.2rem;}
+  .tier-head{
+    display:flex;
+    align-items:center;
+    gap:0.9rem;
+    margin-bottom:0.9rem;
+  }
+  .tier-badge{
+    width:30px;height:30px;
+    border-radius:50%;
+    border:1.5px solid var(--gold);
+    color:var(--gold);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-family:'Oswald', sans-serif;
+    font-weight:600;
+    font-size:0.95rem;
+    flex-shrink:0;
+  }
+  .tier-label{
+    font-size:0.85rem;
+    letter-spacing:0.08em;
+    color:var(--sage);
+    text-transform:uppercase;
+  }
+  .tier-label b{color:var(--cream);font-weight:600;}
+  .tier-line{
+    flex:1;
+    height:1px;
+    background:repeating-linear-gradient(90deg, var(--line) 0 6px, transparent 6px 10px);
+  }
+
+  .player-row{
+    display:grid;
+    grid-template-columns:2.2rem 1fr auto auto;
+    align-items:center;
+    gap:0.9rem;
+    padding:0.72rem 0.85rem;
+    background:var(--panel);
+    border:1px solid var(--line);
+    border-radius:var(--radius);
+    margin-bottom:0.4rem;
+    transition:border-color 0.15s ease, transform 0.1s ease;
+  }
+  .player-row:hover{border-color:var(--sage);}
+  .rank-num{
+    font-family:'Oswald', sans-serif;
+    font-size:1rem;
+    color:var(--sage);
+    text-align:center;
+  }
+  .player-name{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.86rem;
+    font-weight:500;
+    color:var(--cream);
+  }
+  .player-team{
+    color:var(--sage);
+    font-size:0.76rem;
+    margin-left:0.5rem;
+  }
+  .pos-chip{
+    font-size:0.66rem;
+    letter-spacing:0.05em;
+    padding:0.22rem 0.5rem;
+    border-radius:2px;
+    font-family:'Oswald', sans-serif;
+    font-weight:600;
+  }
+  .pos-chip.QB{background:rgba(193,68,60,0.18);color:var(--qb);}
+  .pos-chip.RB{background:rgba(62,140,110,0.18);color:var(--rb);}
+  .pos-chip.WR{background:rgba(62,124,156,0.18);color:var(--wr);}
+  .pos-chip.TE{background:rgba(169,124,79,0.18);color:var(--te);}
+  .adp{
+    font-size:0.74rem;
+    color:var(--sage);
+    text-align:right;
+    min-width:64px;
+  }
+  .adp b{color:var(--cream);font-weight:500;}
+
+  .hidden{display:none !important;}
+
+  footer{
+    max-width:960px;
+    margin:0 auto;
+    padding:1.5rem 1.5rem 3rem;
+    color:var(--sage);
+    font-size:0.7rem;
+    letter-spacing:0.03em;
+    border-top:1px solid var(--line);
+  }
+
+  @media (max-width:520px){
+    .player-row{grid-template-columns:1.8rem 1fr auto;}
+    .adp{display:none;}
+    .search{width:100%;margin-left:0;order:99;}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <p class="eyebrow">Draft Board</p>
+  <h1>Best Ball Rankings</h1>
+  <p class="sub">Tiered rankings built for season-long best ball drafts — grouped by real talent cliffs, not just average draft position.</p>
+  <div class="meta-row">
+    <span>Updated: <strong>Aug 24, 2026</strong></span>
+    <span>Format: <strong>PPR / Best Ball</strong></span>
+    <span>Players ranked: <strong id="count-label">—</strong></span>
+  </div>
+</header>
+
+<div class="controls">
+  <button class="pos-tab active" data-pos="ALL">All</button>
+  <button class="pos-tab" data-pos="QB">QB</button>
+  <button class="pos-tab" data-pos="RB">RB</button>
+  <button class="pos-tab" data-pos="WR">WR</button>
+  <button class="pos-tab" data-pos="TE">TE</button>
+  <input class="search" id="search" type="text" placeholder="Search player…">
+</div>
+
+<main id="board"></main>
+
+<footer>
+  Rankings reflect editorial judgment, not a guarantee of outcomes. Best ball entry fees involve real money — play within your means. Data is placeholder and should be replaced with your own weekly-updated sheet.
+</footer>
+
+<script>
+/* ------------------------------------------------------------
+   DATA — pulled from data/rankings.json, which fetch-adp.js
+   regenerates on a schedule. See fetch-adp.js for the source.
+------------------------------------------------------------ */
+let players = [];
+let tierLabels = {};
+
+async function loadData(){
+  board.innerHTML = '<p style="color:var(--sage);font-size:0.85rem;">Loading rankings…</p>';
+  try{
+    const res = await fetch('data/rankings.json', { cache: 'no-store' });
+    if(!res.ok) throw new Error('Bad response: ' + res.status);
+    const data = await res.json();
+
+    players = data.players || [];
+    tierLabels = {};
+    (data.tierLabels || []).forEach((label, i) => { tierLabels[i + 1] = label; });
+
+    const updatedEl = document.querySelector('.meta-row span:first-child strong');
+    if(updatedEl && data.updatedAt){
+      updatedEl.textContent = new Date(data.updatedAt).toLocaleDateString('en-US', {
+        year: 'numeric', month: 'short', day: 'numeric'
+      });
+    }
+
+    render();
+  }catch(err){
+    board.innerHTML = `
+      <p style="color:var(--sage);font-size:0.85rem;line-height:1.6;">
+        Couldn't load live rankings (${err.message}).<br>
+        If you're viewing this file directly (file://), run a local server —
+        e.g. <code style="color:var(--cream);">npx serve</code> — since
+        browsers block fetch() for local files without one.
+      </p>`;
+  }
+}
+
+const board = document.getElementById('board');
+const countLabel = document.getElementById('count-label');
+let activePos = 'ALL';
+let query = '';
+
+function render(){
+  board.innerHTML = '';
+  const filtered = players.filter(p =>
+    (activePos === 'ALL' || p.pos === activePos) &&
+    p.name.toLowerCase().includes(query.toLowerCase())
+  );
+  countLabel.textContent = filtered.length;
+
+  const tiers = [...new Set(filtered.map(p => p.tier))].sort((a,b) => a-b);
+
+  if(tiers.length === 0){
+    board.innerHTML = '<p style="color:var(--sage);font-size:0.85rem;">No players match that search.</p>';
+    return;
+  }
+
+  const posOrder = { QB: 0, RB: 1, WR: 2, TE: 3 };
+
+  tiers.forEach(t => {
+    const tierPlayers = filtered
+      .filter(p => p.tier === t)
+      .sort((a, b) => {
+        const posDiff = posOrder[a.pos] - posOrder[b.pos];
+        if (posDiff !== 0) return posDiff;
+        return parseFloat(a.adp) - parseFloat(b.adp);
+      });
+    const section = document.createElement('div');
+    section.className = 'tier';
+
+    const head = document.createElement('div');
+    head.className = 'tier-head';
+    head.innerHTML = `
+      <div class="tier-badge">${t}</div>
+      <div class="tier-label">Tier ${t} — <b>${tierLabels[t] || ''}</b></div>
+      <div class="tier-line"></div>
+    `;
+    section.appendChild(head);
+
+    tierPlayers.forEach((p) => {
+      const globalRank = players.indexOf(p) + 1;
+      const row = document.createElement('div');
+      row.className = 'player-row';
+      row.innerHTML = `
+        <div class="rank-num">${globalRank}</div>
+        <div><span class="player-name">${p.name}</span><span class="player-team">${p.team}</span></div>
+        <div class="pos-chip ${p.pos}">${p.pos}</div>
+        <div class="adp">ADP <b>${p.adp}</b></div>
+      `;
+      section.appendChild(row);
+    });
+
+    board.appendChild(section);
+  });
+}
+
+document.querySelectorAll('.pos-tab').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.pos-tab').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    activePos = btn.dataset.pos;
+    render();
+  });
+});
+
+document.getElementById('search').addEventListener('input', (e) => {
+  query = e.target.value;
+  render();
+});
+
+loadData();
+</script>
+
+</body>
+</html>
