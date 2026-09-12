@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T09:08:58.197Z",
+  "updatedAt": "2026-09-12T09:08:47.695Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -5829,7 +5829,7 @@
     },
     {
       "name": "Jamari Thrash",
-      "team": "CLE",
+      "team": "",
       "pos": "WR",
       "adp": "1603.3",
       "tier": 14
@@ -5976,7 +5976,7 @@
     },
     {
       "name": "Xavier Gipson",
-      "team": "",
+      "team": "PHI",
       "pos": "WR",
       "adp": "1652.6",
       "tier": 14
