@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T09:32:37.322Z",
+  "updatedAt": "2026-09-14T09:10:44.972Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -2076,16 +2076,16 @@
       "tier": 1
     },
     {
-      "name": "Cleveland Browns",
-      "team": "CLE",
-      "pos": "DEF",
+      "name": "Nelson Agholor",
+      "team": "",
+      "pos": "WR",
       "adp": "478.3",
       "tier": 1
     },
     {
-      "name": "Nelson Agholor",
-      "team": "",
-      "pos": "WR",
+      "name": "Cleveland Browns",
+      "team": "CLE",
+      "pos": "DEF",
       "adp": "478.3",
       "tier": 1
     },
@@ -2356,16 +2356,16 @@
       "tier": 1
     },
     {
-      "name": "Tennessee Titans",
-      "team": "TEN",
-      "pos": "DEF",
+      "name": "Zack Moss",
+      "team": "",
+      "pos": "RB",
       "adp": "537.8",
       "tier": 1
     },
     {
-      "name": "Zack Moss",
-      "team": "",
-      "pos": "RB",
+      "name": "Tennessee Titans",
+      "team": "TEN",
+      "pos": "DEF",
       "adp": "537.8",
       "tier": 1
     },
@@ -3693,16 +3693,16 @@
       "tier": 1
     },
     {
-      "name": "Chase Claypool",
-      "team": "",
-      "pos": "WR",
+      "name": "Brevyn Spann-Ford",
+      "team": "DAL",
+      "pos": "TE",
       "adp": "861.2",
       "tier": 1
     },
     {
-      "name": "Brevyn Spann-Ford",
-      "team": "DAL",
-      "pos": "TE",
+      "name": "Chase Claypool",
+      "team": "",
+      "pos": "WR",
       "adp": "861.2",
       "tier": 1
     },
@@ -4890,16 +4890,16 @@
       "tier": 5
     },
     {
-      "name": "Irv Smith Jr.",
-      "team": "",
-      "pos": "TE",
+      "name": "Jason Sanders",
+      "team": "NYJ",
+      "pos": "K",
       "adp": "1234.0",
       "tier": 6
     },
     {
-      "name": "Jason Sanders",
-      "team": "NYJ",
-      "pos": "K",
+      "name": "Irv Smith Jr.",
+      "team": "",
+      "pos": "TE",
       "adp": "1234.0",
       "tier": 6
     },
@@ -5779,16 +5779,16 @@
       "tier": 14
     },
     {
-      "name": "Keilan Robinson",
-      "team": "",
-      "pos": "RB",
+      "name": "Marlin Klein",
+      "team": "HOU",
+      "pos": "TE",
       "adp": "1589.7",
       "tier": 14
     },
     {
-      "name": "Marlin Klein",
-      "team": "HOU",
-      "pos": "TE",
+      "name": "Keilan Robinson",
+      "team": "",
+      "pos": "RB",
       "adp": "1589.7",
       "tier": 14
     },
@@ -6059,16 +6059,16 @@
       "tier": 15
     },
     {
-      "name": "Deneric Prince",
-      "team": "",
-      "pos": "RB",
+      "name": "Blake Whiteheart",
+      "team": "CLE",
+      "pos": "TE",
       "adp": "1688.4",
       "tier": 15
     },
     {
-      "name": "Blake Whiteheart",
-      "team": "CLE",
-      "pos": "TE",
+      "name": "Deneric Prince",
+      "team": "",
+      "pos": "RB",
       "adp": "1688.4",
       "tier": 15
     },
