@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T09:10:44.972Z",
+  "updatedAt": "2026-09-15T09:11:07.799Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -557,15 +557,15 @@
       "tier": 1
     },
     {
-      "name": "Joe Mixon",
-      "team": "",
+      "name": "RJ Harvey",
+      "team": "DEN",
       "pos": "RB",
       "adp": "132.8",
       "tier": 1
     },
     {
-      "name": "RJ Harvey",
-      "team": "DEN",
+      "name": "Joe Mixon",
+      "team": "",
       "pos": "RB",
       "adp": "132.8",
       "tier": 1
@@ -3078,7 +3078,7 @@
     },
     {
       "name": "Phil Mafah",
-      "team": "",
+      "team": "NYG",
       "pos": "RB",
       "adp": "702.9",
       "tier": 1
@@ -3925,7 +3925,7 @@
     },
     {
       "name": "Hassan Haskins",
-      "team": "NE",
+      "team": "",
       "pos": "RB",
       "adp": "919.1",
       "tier": 1
@@ -4709,7 +4709,7 @@
     },
     {
       "name": "Lil'Jordan Humphrey",
-      "team": "DEN",
+      "team": "",
       "pos": "WR",
       "adp": "1138.6",
       "tier": 2
