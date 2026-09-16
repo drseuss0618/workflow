@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T09:11:07.799Z",
+  "updatedAt": "2026-09-16T09:08:55.279Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -984,7 +984,7 @@
       "tier": 1
     },
     {
-      "name": "KC Concepcion",
+      "name": "KC Concepcion Jr.",
       "team": "CLE",
       "pos": "WR",
       "adp": "229.8",
@@ -2280,7 +2280,7 @@
     },
     {
       "name": "Jake Moody",
-      "team": "BAL",
+      "team": "",
       "pos": "K",
       "adp": "519.1",
       "tier": 1
@@ -2602,7 +2602,7 @@
     },
     {
       "name": "Sterling Shepard",
-      "team": "",
+      "team": "NYJ",
       "pos": "WR",
       "adp": "590.6",
       "tier": 1
@@ -2805,7 +2805,7 @@
     },
     {
       "name": "Jimmy Horn Jr.",
-      "team": "CAR",
+      "team": "",
       "pos": "WR",
       "adp": "633.1",
       "tier": 1
@@ -3197,7 +3197,7 @@
     },
     {
       "name": "Israel Abanikanda",
-      "team": "DAL",
+      "team": "",
       "pos": "RB",
       "adp": "733.6",
       "tier": 1
@@ -3491,7 +3491,7 @@
     },
     {
       "name": "Marquez Valdes-Scantling",
-      "team": "",
+      "team": "LAC",
       "pos": "WR",
       "adp": "808.4",
       "tier": 1
@@ -3715,7 +3715,7 @@
     },
     {
       "name": "Tyler Goodson",
-      "team": "ATL",
+      "team": "DAL",
       "pos": "RB",
       "adp": "866.3",
       "tier": 1
@@ -4219,7 +4219,7 @@
     },
     {
       "name": "Shane Zylstra",
-      "team": "NE",
+      "team": "",
       "pos": "TE",
       "adp": "1000.8",
       "tier": 1
@@ -4303,7 +4303,7 @@
     },
     {
       "name": "Jack Stoll",
-      "team": "",
+      "team": "SF",
       "pos": "TE",
       "adp": "1021.2",
       "tier": 1
@@ -4450,7 +4450,7 @@
     },
     {
       "name": "Ihmir Smith-Marsette",
-      "team": "ARI",
+      "team": "",
       "pos": "WR",
       "adp": "1063.8",
       "tier": 1
@@ -4653,7 +4653,7 @@
     },
     {
       "name": "Josiah Deguara",
-      "team": "",
+      "team": "PHI",
       "pos": "TE",
       "adp": "1118.2",
       "tier": 1
@@ -4681,7 +4681,7 @@
     },
     {
       "name": "Tyler Johnson",
-      "team": "",
+      "team": "NYJ",
       "pos": "WR",
       "adp": "1125.0",
       "tier": 1
@@ -4709,7 +4709,7 @@
     },
     {
       "name": "Lil'Jordan Humphrey",
-      "team": "",
+      "team": "DEN",
       "pos": "WR",
       "adp": "1138.6",
       "tier": 2
@@ -5346,7 +5346,7 @@
     },
     {
       "name": "Eric Gray",
-      "team": "",
+      "team": "CLE",
       "pos": "RB",
       "adp": "1424.6",
       "tier": 12
@@ -5458,7 +5458,7 @@
     },
     {
       "name": "Gage Larvadain",
-      "team": "",
+      "team": "BAL",
       "pos": "WR",
       "adp": "1472.2",
       "tier": 13
