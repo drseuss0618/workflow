@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T09:09:44.036Z",
+  "updatedAt": "2026-09-22T09:08:59.931Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -1135,13 +1135,6 @@
       "team": "MIA",
       "pos": "QB",
       "adp": "263.8",
-      "tier": 1
-    },
-    {
-      "name": "Zach Ertz",
-      "team": "",
-      "pos": "TE",
-      "adp": "265.5",
       "tier": 1
     },
     {
@@ -2980,7 +2973,7 @@
     },
     {
       "name": "Darius Slayton",
-      "team": "",
+      "team": "IND",
       "pos": "WR",
       "adp": "675.7",
       "tier": 1
