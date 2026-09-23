@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T09:08:59.931Z",
+  "updatedAt": "2026-09-23T09:09:03.723Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -2112,7 +2112,7 @@
     },
     {
       "name": "Audric Estimé",
-      "team": "NO",
+      "team": "",
       "pos": "RB",
       "adp": "485.1",
       "tier": 1
@@ -2283,13 +2283,6 @@
       "team": "CHI",
       "pos": "RB",
       "adp": "520.8",
-      "tier": 1
-    },
-    {
-      "name": "Brandin Cooks",
-      "team": "",
-      "pos": "WR",
-      "adp": "524.2",
       "tier": 1
     },
     {
@@ -3057,7 +3050,7 @@
     },
     {
       "name": "Tanner Conner",
-      "team": "",
+      "team": "NE",
       "pos": "TE",
       "adp": "699.5",
       "tier": 1
@@ -3351,7 +3344,7 @@
     },
     {
       "name": "Will Levis",
-      "team": "",
+      "team": "NYJ",
       "pos": "QB",
       "adp": "771.0",
       "tier": 1
@@ -3925,7 +3918,7 @@
     },
     {
       "name": "Bailey Zappe",
-      "team": "NYJ",
+      "team": "",
       "pos": "QB",
       "adp": "920.8",
       "tier": 1
@@ -3988,7 +3981,7 @@
     },
     {
       "name": "Danny Gray",
-      "team": "PHI",
+      "team": "",
       "pos": "WR",
       "adp": "937.8",
       "tier": 1
@@ -4443,7 +4436,7 @@
     },
     {
       "name": "Ihmir Smith-Marsette",
-      "team": "",
+      "team": "CAR",
       "pos": "WR",
       "adp": "1063.8",
       "tier": 1
@@ -4485,7 +4478,7 @@
     },
     {
       "name": "Isaiah Hodgins",
-      "team": "",
+      "team": "PIT",
       "pos": "WR",
       "adp": "1075.7",
       "tier": 1
@@ -4639,7 +4632,7 @@
     },
     {
       "name": "Jaret Patterson",
-      "team": "",
+      "team": "MIN",
       "pos": "RB",
       "adp": "1116.5",
       "tier": 1
@@ -5948,7 +5941,7 @@
     },
     {
       "name": "Brenden Bates",
-      "team": "",
+      "team": "JAX",
       "pos": "TE",
       "adp": "1645.8",
       "tier": 14
@@ -5997,7 +5990,7 @@
     },
     {
       "name": "Hayden Rucci",
-      "team": "JAX",
+      "team": "LAC",
       "pos": "TE",
       "adp": "1661.2",
       "tier": 14
