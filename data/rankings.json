@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T14:32:30.712Z",
+  "updatedAt": "2026-09-28T17:19:44.405Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -214,16 +214,16 @@
       "tier": 1
     },
     {
-      "name": "Tyreek Hill",
-      "team": "",
-      "pos": "WR",
+      "name": "Trey McBride",
+      "team": "ARI",
+      "pos": "TE",
       "adp": "51.1",
       "tier": 1
     },
     {
-      "name": "Trey McBride",
-      "team": "ARI",
-      "pos": "TE",
+      "name": "Tyreek Hill",
+      "team": "",
+      "pos": "WR",
       "adp": "51.1",
       "tier": 1
     },
@@ -753,16 +753,16 @@
       "tier": 1
     },
     {
-      "name": "Gus Edwards",
-      "team": "",
-      "pos": "RB",
+      "name": "Brock Purdy",
+      "team": "SF",
+      "pos": "QB",
       "adp": "178.7",
       "tier": 1
     },
     {
-      "name": "Brock Purdy",
-      "team": "SF",
-      "pos": "QB",
+      "name": "Gus Edwards",
+      "team": "",
+      "pos": "RB",
       "adp": "178.7",
       "tier": 1
     },
@@ -1698,15 +1698,15 @@
       "tier": 1
     },
     {
-      "name": "Russell Wilson",
-      "team": "",
+      "name": "Geno Smith",
+      "team": "NYJ",
       "pos": "QB",
       "adp": "394.9",
       "tier": 1
     },
     {
-      "name": "Geno Smith",
-      "team": "NYJ",
+      "name": "Russell Wilson",
+      "team": "",
       "pos": "QB",
       "adp": "394.9",
       "tier": 1
@@ -1810,16 +1810,16 @@
       "tier": 1
     },
     {
-      "name": "Miles Sanders",
-      "team": "",
-      "pos": "RB",
+      "name": "Eddy Piñeiro",
+      "team": "SF",
+      "pos": "K",
       "adp": "420.4",
       "tier": 1
     },
     {
-      "name": "Eddy Piñeiro",
-      "team": "SF",
-      "pos": "K",
+      "name": "Miles Sanders",
+      "team": "",
+      "pos": "RB",
       "adp": "420.4",
       "tier": 1
     },
@@ -2083,16 +2083,16 @@
       "tier": 1
     },
     {
-      "name": "Raheem Mostert",
-      "team": "",
-      "pos": "RB",
+      "name": "Mike Gesicki",
+      "team": "CIN",
+      "pos": "TE",
       "adp": "480.0",
       "tier": 1
     },
     {
-      "name": "Mike Gesicki",
-      "team": "CIN",
-      "pos": "TE",
+      "name": "Raheem Mostert",
+      "team": "",
+      "pos": "RB",
       "adp": "480.0",
       "tier": 1
     },
@@ -2727,16 +2727,16 @@
       "tier": 1
     },
     {
-      "name": "Gabe Davis",
-      "team": "",
-      "pos": "WR",
+      "name": "Tyler Bass",
+      "team": "BUF",
+      "pos": "K",
       "adp": "622.9",
       "tier": 1
     },
     {
-      "name": "Tyler Bass",
-      "team": "BUF",
-      "pos": "K",
+      "name": "Gabe Davis",
+      "team": "",
+      "pos": "WR",
       "adp": "622.9",
       "tier": 1
     },
