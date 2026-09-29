@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T17:19:44.405Z",
+  "updatedAt": "2026-09-29T15:20:42.994Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -2714,14 +2714,14 @@
     },
     {
       "name": "Tyler Scott",
-      "team": "",
+      "team": "LV",
       "pos": "WR",
       "adp": "619.5",
       "tier": 1
     },
     {
       "name": "J.J. McCarthy",
-      "team": "MIN",
+      "team": "NYG",
       "pos": "QB",
       "adp": "621.2",
       "tier": 1
@@ -4359,7 +4359,7 @@
     },
     {
       "name": "Jake Haener",
-      "team": "NYG",
+      "team": "",
       "pos": "QB",
       "adp": "1045.0",
       "tier": 1
