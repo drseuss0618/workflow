@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T15:20:42.994Z",
+  "updatedAt": "2026-09-30T15:36:03.692Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -868,13 +868,6 @@
       "name": "Jake Ferguson",
       "team": "DAL",
       "pos": "TE",
-      "adp": "202.5",
-      "tier": 1
-    },
-    {
-      "name": "Austin Ekeler",
-      "team": "",
-      "pos": "RB",
       "adp": "202.5",
       "tier": 1
     },
@@ -1937,7 +1930,7 @@
     },
     {
       "name": "Devin Neal",
-      "team": "",
+      "team": "MIN",
       "pos": "RB",
       "adp": "449.3",
       "tier": 1
@@ -2112,7 +2105,7 @@
     },
     {
       "name": "Audric Estimé",
-      "team": "",
+      "team": "MIN",
       "pos": "RB",
       "adp": "485.1",
       "tier": 1
@@ -2371,7 +2364,7 @@
     },
     {
       "name": "Odell Beckham Jr.",
-      "team": "NYG",
+      "team": "",
       "pos": "WR",
       "adp": "542.9",
       "tier": 1
@@ -2601,8 +2594,8 @@
       "tier": 1
     },
     {
-      "name": "Mitchell Tinsley",
-      "team": "HOU",
+      "name": "Mitch Tinsley",
+      "team": "CIN",
       "pos": "WR",
       "adp": "595.7",
       "tier": 1
@@ -2742,7 +2735,7 @@
     },
     {
       "name": "Justin Shorter",
-      "team": "LV",
+      "team": "",
       "pos": "WR",
       "adp": "624.6",
       "tier": 1
@@ -3106,7 +3099,7 @@
     },
     {
       "name": "Ke'Shawn Williams",
-      "team": "CIN",
+      "team": "",
       "pos": "WR",
       "adp": "714.8",
       "tier": 1
@@ -3316,7 +3309,7 @@
     },
     {
       "name": "Dare Ogunbowale",
-      "team": "LV",
+      "team": "HOU",
       "pos": "RB",
       "adp": "764.2",
       "tier": 1
@@ -3400,7 +3393,7 @@
     },
     {
       "name": "Blake Grupe",
-      "team": "NYJ",
+      "team": "",
       "pos": "K",
       "adp": "784.6",
       "tier": 1
@@ -4183,13 +4176,6 @@
       "tier": 1
     },
     {
-      "name": "John FitzPatrick",
-      "team": "",
-      "pos": "TE",
-      "adp": "997.4",
-      "tier": 1
-    },
-    {
       "name": "Shane Buechele",
       "team": "BUF",
       "pos": "QB",
@@ -4534,7 +4520,7 @@
     },
     {
       "name": "Jerome Ford",
-      "team": "MIN",
+      "team": "",
       "pos": "RB",
       "adp": "1089.3",
       "tier": 1
@@ -4632,7 +4618,7 @@
     },
     {
       "name": "Jaret Patterson",
-      "team": "MIN",
+      "team": "",
       "pos": "RB",
       "adp": "1116.5",
       "tier": 1
@@ -4946,16 +4932,16 @@
       "tier": 6
     },
     {
-      "name": "John Wolford",
+      "name": "Scotty Miller",
       "team": "",
-      "pos": "QB",
+      "pos": "WR",
       "adp": "1257.8",
       "tier": 6
     },
     {
-      "name": "Scotty Miller",
+      "name": "John Wolford",
       "team": "",
-      "pos": "WR",
+      "pos": "QB",
       "adp": "1257.8",
       "tier": 6
     },
@@ -5024,7 +5010,7 @@
     },
     {
       "name": "Dante Pettis",
-      "team": "",
+      "team": "SF",
       "pos": "WR",
       "adp": "1283.3",
       "tier": 6
