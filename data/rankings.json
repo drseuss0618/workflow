@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T15:36:03.692Z",
+  "updatedAt": "2026-10-01T15:59:03.103Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -3099,7 +3099,7 @@
     },
     {
       "name": "Ke'Shawn Williams",
-      "team": "",
+      "team": "CIN",
       "pos": "WR",
       "adp": "714.8",
       "tier": 1
@@ -3393,7 +3393,7 @@
     },
     {
       "name": "Blake Grupe",
-      "team": "",
+      "team": "NYJ",
       "pos": "K",
       "adp": "784.6",
       "tier": 1
@@ -4345,7 +4345,7 @@
     },
     {
       "name": "Jake Haener",
-      "team": "",
+      "team": "NYG",
       "pos": "QB",
       "adp": "1045.0",
       "tier": 1
@@ -5598,7 +5598,7 @@
     },
     {
       "name": "Bryce Oliver",
-      "team": "HOU",
+      "team": "",
       "pos": "WR",
       "adp": "1536.9",
       "tier": 14
