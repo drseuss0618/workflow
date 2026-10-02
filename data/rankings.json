@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T15:59:03.103Z",
+  "updatedAt": "2026-10-02T15:21:45.040Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -2510,16 +2510,16 @@
       "tier": 1
     },
     {
-      "name": "Jamaal Williams",
-      "team": "",
-      "pos": "RB",
+      "name": "Andre Szmyt",
+      "team": "CLE",
+      "pos": "K",
       "adp": "577.0",
       "tier": 1
     },
     {
-      "name": "Andre Szmyt",
-      "team": "CLE",
-      "pos": "K",
+      "name": "Jamaal Williams",
+      "team": "",
+      "pos": "RB",
       "adp": "577.0",
       "tier": 1
     },
