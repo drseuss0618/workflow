@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T15:21:45.040Z",
+  "updatedAt": "2026-10-03T14:07:47.133Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -4681,7 +4681,7 @@
     },
     {
       "name": "Lil'Jordan Humphrey",
-      "team": "DEN",
+      "team": "",
       "pos": "WR",
       "adp": "1138.6",
       "tier": 2
@@ -5878,7 +5878,7 @@
     },
     {
       "name": "Xavier Smith",
-      "team": "LAR",
+      "team": "",
       "pos": "WR",
       "adp": "1628.8",
       "tier": 14
