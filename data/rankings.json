@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T14:37:37.047Z",
+  "updatedAt": "2026-10-05T17:51:19.102Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -2118,16 +2118,16 @@
       "tier": 1
     },
     {
-      "name": "Antonio Gibson",
-      "team": "",
-      "pos": "RB",
+      "name": "Wil Lutz",
+      "team": "DEN",
+      "pos": "K",
       "adp": "488.5",
       "tier": 1
     },
     {
-      "name": "Wil Lutz",
-      "team": "DEN",
-      "pos": "K",
+      "name": "Antonio Gibson",
+      "team": "",
+      "pos": "RB",
       "adp": "488.5",
       "tier": 1
     },
@@ -5863,16 +5863,16 @@
       "tier": 14
     },
     {
-      "name": "Blake Watson",
-      "team": "",
-      "pos": "RB",
+      "name": "Gavin Bartholomew",
+      "team": "MIN",
+      "pos": "TE",
       "adp": "1625.4",
       "tier": 14
     },
     {
-      "name": "Gavin Bartholomew",
-      "team": "MIN",
-      "pos": "TE",
+      "name": "Blake Watson",
+      "team": "",
+      "pos": "RB",
       "adp": "1625.4",
       "tier": 14
     },
