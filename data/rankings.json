@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T15:40:40.000Z",
+  "updatedAt": "2026-10-07T16:04:44.576Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -1923,7 +1923,7 @@
     },
     {
       "name": "Devin Neal",
-      "team": "MIN",
+      "team": "",
       "pos": "RB",
       "adp": "449.3",
       "tier": 1
@@ -2357,7 +2357,7 @@
     },
     {
       "name": "Odell Beckham Jr.",
-      "team": "",
+      "team": "MIN",
       "pos": "WR",
       "adp": "542.9",
       "tier": 1
@@ -2581,7 +2581,7 @@
     },
     {
       "name": "Deuce Vaughn",
-      "team": "",
+      "team": "HOU",
       "pos": "RB",
       "adp": "594.0",
       "tier": 1
@@ -4246,16 +4246,16 @@
       "tier": 1
     },
     {
-      "name": "DJ Turner",
+      "name": "Keaontay Ingram",
       "team": "",
-      "pos": "WR",
+      "pos": "RB",
       "adp": "1016.1",
       "tier": 1
     },
     {
-      "name": "Keaontay Ingram",
+      "name": "DJ Turner",
       "team": "",
-      "pos": "RB",
+      "pos": "WR",
       "adp": "1016.1",
       "tier": 1
     },
@@ -4611,7 +4611,7 @@
     },
     {
       "name": "Jaret Patterson",
-      "team": "",
+      "team": "CLE",
       "pos": "RB",
       "adp": "1116.5",
       "tier": 1
@@ -4747,13 +4747,6 @@
       "team": "DET",
       "pos": "WR",
       "adp": "1169.3",
-      "tier": 3
-    },
-    {
-      "name": "James Proche II",
-      "team": "",
-      "pos": "WR",
-      "adp": "1171.0",
       "tier": 3
     },
     {
@@ -4926,7 +4919,7 @@
     },
     {
       "name": "Scotty Miller",
-      "team": "",
+      "team": "CHI",
       "pos": "WR",
       "adp": "1257.8",
       "tier": 6
@@ -5017,7 +5010,7 @@
     },
     {
       "name": "Jam Miller",
-      "team": "",
+      "team": "ATL",
       "pos": "RB",
       "adp": "1290.1",
       "tier": 7
@@ -5283,7 +5276,7 @@
     },
     {
       "name": "Carlos Washington Jr.",
-      "team": "",
+      "team": "MIA",
       "pos": "RB",
       "adp": "1402.4",
       "tier": 11
@@ -5311,7 +5304,7 @@
     },
     {
       "name": "Eric Gray",
-      "team": "CLE",
+      "team": "",
       "pos": "RB",
       "adp": "1424.6",
       "tier": 12
@@ -5850,7 +5843,7 @@
     },
     {
       "name": "Jeshaun Jones",
-      "team": "",
+      "team": "MIN",
       "pos": "WR",
       "adp": "1623.7",
       "tier": 14
