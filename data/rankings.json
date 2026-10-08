@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T16:04:44.576Z",
+  "updatedAt": "2026-10-08T16:06:47.013Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -5584,7 +5584,7 @@
     },
     {
       "name": "Bryce Oliver",
-      "team": "",
+      "team": "HOU",
       "pos": "WR",
       "adp": "1536.9",
       "tier": 14
@@ -5864,7 +5864,7 @@
     },
     {
       "name": "Xavier Smith",
-      "team": "",
+      "team": "SF",
       "pos": "WR",
       "adp": "1628.8",
       "tier": 14
