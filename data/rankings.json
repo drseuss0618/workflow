@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T16:06:47.013Z",
+  "updatedAt": "2026-10-09T15:48:36.317Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -1545,7 +1545,7 @@
     },
     {
       "name": "Kaytron Allen",
-      "team": "WAS",
+      "team": "",
       "pos": "RB",
       "adp": "359.1",
       "tier": 1
@@ -2189,7 +2189,7 @@
     },
     {
       "name": "Emari Demercado",
-      "team": "DAL",
+      "team": "",
       "pos": "RB",
       "adp": "503.8",
       "tier": 1
@@ -4996,7 +4996,7 @@
     },
     {
       "name": "Dante Pettis",
-      "team": "SF",
+      "team": "",
       "pos": "WR",
       "adp": "1283.3",
       "tier": 6
