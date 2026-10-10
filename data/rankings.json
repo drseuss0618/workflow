@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T15:48:36.317Z",
+  "updatedAt": "2026-10-10T15:01:57.586Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -1545,7 +1545,7 @@
     },
     {
       "name": "Kaytron Allen",
-      "team": "",
+      "team": "MIA",
       "pos": "RB",
       "adp": "359.1",
       "tier": 1
@@ -3785,7 +3785,7 @@
     },
     {
       "name": "Andy Dalton",
-      "team": "PHI",
+      "team": "",
       "pos": "QB",
       "adp": "890.1",
       "tier": 1
