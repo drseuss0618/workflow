@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T15:01:57.586Z",
+  "updatedAt": "2026-10-11T15:19:10.621Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -3862,7 +3862,7 @@
     },
     {
       "name": "Kevin Austin Jr.",
-      "team": "NO",
+      "team": "",
       "pos": "WR",
       "adp": "910.6",
       "tier": 1
@@ -5584,7 +5584,7 @@
     },
     {
       "name": "Bryce Oliver",
-      "team": "HOU",
+      "team": "",
       "pos": "WR",
       "adp": "1536.9",
       "tier": 14
