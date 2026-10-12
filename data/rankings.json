@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T15:19:10.621Z",
+  "updatedAt": "2026-10-12T18:34:13.604Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -565,7 +565,7 @@
     },
     {
       "name": "Marvin Harrison Jr.",
-      "team": "ARI",
+      "team": "HOU",
       "pos": "WR",
       "adp": "134.5",
       "tier": 1
@@ -2664,16 +2664,16 @@
       "tier": 1
     },
     {
-      "name": "Curtis Samuel",
-      "team": "",
-      "pos": "WR",
+      "name": "Will Shipley",
+      "team": "PHI",
+      "pos": "RB",
       "adp": "614.4",
       "tier": 1
     },
     {
-      "name": "Will Shipley",
-      "team": "PHI",
-      "pos": "RB",
+      "name": "Curtis Samuel",
+      "team": "",
+      "pos": "WR",
       "adp": "614.4",
       "tier": 1
     },
@@ -5045,7 +5045,7 @@
     },
     {
       "name": "Justin Watson",
-      "team": "",
+      "team": "KC",
       "pos": "WR",
       "adp": "1303.7",
       "tier": 8
