@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T16:42:35.552Z",
+  "updatedAt": "2026-10-14T14:19:20.350Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -1328,7 +1328,7 @@
     },
     {
       "name": "Harrison Mevis",
-      "team": "LAR",
+      "team": "",
       "pos": "K",
       "adp": "309.8",
       "tier": 1
@@ -1499,13 +1499,6 @@
       "team": "LV",
       "pos": "WR",
       "adp": "347.2",
-      "tier": 1
-    },
-    {
-      "name": "Travis Hunter",
-      "team": "JAX",
-      "pos": "WR",
-      "adp": "348.9",
       "tier": 1
     },
     {
@@ -2189,7 +2182,7 @@
     },
     {
       "name": "Emari Demercado",
-      "team": "",
+      "team": "DAL",
       "pos": "RB",
       "adp": "503.8",
       "tier": 1
@@ -2686,7 +2679,7 @@
     },
     {
       "name": "Trey Palmer",
-      "team": "NO",
+      "team": "",
       "pos": "WR",
       "adp": "616.1",
       "tier": 1
@@ -3386,7 +3379,7 @@
     },
     {
       "name": "Blake Grupe",
-      "team": "NYJ",
+      "team": "LAR",
       "pos": "K",
       "adp": "784.6",
       "tier": 1
@@ -3897,7 +3890,7 @@
     },
     {
       "name": "Hassan Haskins",
-      "team": "",
+      "team": "NE",
       "pos": "RB",
       "adp": "919.1",
       "tier": 1
@@ -4569,7 +4562,7 @@
     },
     {
       "name": "Jake Browning",
-      "team": "",
+      "team": "LAC",
       "pos": "QB",
       "adp": "1104.6",
       "tier": 1
@@ -4618,7 +4611,7 @@
     },
     {
       "name": "Josiah Deguara",
-      "team": "PHI",
+      "team": "",
       "pos": "TE",
       "adp": "1118.2",
       "tier": 1
@@ -5178,7 +5171,7 @@
     },
     {
       "name": "Chris Moore",
-      "team": "BAL",
+      "team": "",
       "pos": "WR",
       "adp": "1363.3",
       "tier": 10
@@ -5773,7 +5766,7 @@
     },
     {
       "name": "Ryan Miller",
-      "team": "MIA",
+      "team": "",
       "pos": "WR",
       "adp": "1598.2",
       "tier": 14
@@ -5941,7 +5934,7 @@
     },
     {
       "name": "Jared Wayne",
-      "team": "",
+      "team": "MIA",
       "pos": "WR",
       "adp": "1656.0",
       "tier": 14
