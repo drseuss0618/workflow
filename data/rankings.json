@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T14:19:20.350Z",
+  "updatedAt": "2026-10-15T13:55:39.548Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -2224,7 +2224,7 @@
     },
     {
       "name": "Jarquez Hunter",
-      "team": "",
+      "team": "NO",
       "pos": "RB",
       "adp": "510.6",
       "tier": 1
@@ -3855,7 +3855,7 @@
     },
     {
       "name": "Kevin Austin Jr.",
-      "team": "",
+      "team": "NO",
       "pos": "WR",
       "adp": "910.6",
       "tier": 1
@@ -4506,7 +4506,7 @@
     },
     {
       "name": "Jerome Ford",
-      "team": "",
+      "team": "ARI",
       "pos": "RB",
       "adp": "1089.3",
       "tier": 1
@@ -5171,7 +5171,7 @@
     },
     {
       "name": "Chris Moore",
-      "team": "",
+      "team": "BAL",
       "pos": "WR",
       "adp": "1363.3",
       "tier": 10
