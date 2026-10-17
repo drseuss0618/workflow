@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T13:43:57.873Z",
+  "updatedAt": "2026-10-17T12:40:51.809Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -2945,7 +2945,7 @@
     },
     {
       "name": "Darius Slayton",
-      "team": "IND",
+      "team": "",
       "pos": "WR",
       "adp": "675.7",
       "tier": 1
@@ -3638,7 +3638,7 @@
     },
     {
       "name": "Joe Milton III",
-      "team": "DAL",
+      "team": "PHI",
       "pos": "QB",
       "adp": "854.4",
       "tier": 1
