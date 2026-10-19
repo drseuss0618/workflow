@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T12:57:45.766Z",
+  "updatedAt": "2026-10-19T16:10:27.699Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -2048,16 +2048,16 @@
       "tier": 1
     },
     {
-      "name": "Nelson Agholor",
-      "team": "",
-      "pos": "WR",
+      "name": "Cleveland Browns",
+      "team": "CLE",
+      "pos": "DEF",
       "adp": "478.3",
       "tier": 1
     },
     {
-      "name": "Cleveland Browns",
-      "team": "CLE",
-      "pos": "DEF",
+      "name": "Nelson Agholor",
+      "team": "",
+      "pos": "WR",
       "adp": "478.3",
       "tier": 1
     },
@@ -3778,7 +3778,7 @@
     },
     {
       "name": "Andy Dalton",
-      "team": "",
+      "team": "ATL",
       "pos": "QB",
       "adp": "890.1",
       "tier": 1
