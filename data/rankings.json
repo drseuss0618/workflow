@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T16:10:27.699Z",
+  "updatedAt": "2026-10-20T14:04:45.874Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -2252,7 +2252,7 @@
     },
     {
       "name": "Jake Moody",
-      "team": "",
+      "team": "BAL",
       "pos": "K",
       "adp": "519.1",
       "tier": 1
@@ -3533,7 +3533,7 @@
     },
     {
       "name": "Cooper Rush",
-      "team": "ATL",
+      "team": "",
       "pos": "QB",
       "adp": "828.9",
       "tier": 1
@@ -4611,7 +4611,7 @@
     },
     {
       "name": "Josiah Deguara",
-      "team": "",
+      "team": "SEA",
       "pos": "TE",
       "adp": "1118.2",
       "tier": 1
@@ -5759,7 +5759,7 @@
     },
     {
       "name": "Ryan Miller",
-      "team": "",
+      "team": "NE",
       "pos": "WR",
       "adp": "1598.2",
       "tier": 14
