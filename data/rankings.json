@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T14:19:44.904Z",
+  "updatedAt": "2026-10-23T14:03:03.672Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -1727,7 +1727,7 @@
     },
     {
       "name": "Jaydon Blue",
-      "team": "",
+      "team": "PHI",
       "pos": "RB",
       "adp": "406.8",
       "tier": 1
@@ -6060,7 +6060,7 @@
     },
     {
       "name": "E.J. Jenkins",
-      "team": "PHI",
+      "team": "",
       "pos": "TE",
       "adp": "1700.3",
       "tier": 14
