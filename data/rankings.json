@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T14:03:03.672Z",
+  "updatedAt": "2026-10-24T13:05:10.334Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -4772,7 +4772,7 @@
     },
     {
       "name": "DeeJay Dallas",
-      "team": "MIN",
+      "team": "",
       "pos": "RB",
       "adp": "1191.4",
       "tier": 4
@@ -5101,7 +5101,7 @@
     },
     {
       "name": "Nate Carter",
-      "team": "",
+      "team": "KC",
       "pos": "RB",
       "adp": "1342.9",
       "tier": 9
