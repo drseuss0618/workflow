@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T15:49:50.986Z",
+  "updatedAt": "2026-10-27T15:06:43.759Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -5654,7 +5654,7 @@
     },
     {
       "name": "Carsen Ryan",
-      "team": "CLE",
+      "team": "",
       "pos": "TE",
       "adp": "1567.5",
       "tier": 13
@@ -5990,7 +5990,7 @@
     },
     {
       "name": "Cam Grandy",
-      "team": "MIN",
+      "team": "CIN",
       "pos": "TE",
       "adp": "1679.9",
       "tier": 13
@@ -6060,7 +6060,7 @@
     },
     {
       "name": "E.J. Jenkins",
-      "team": "",
+      "team": "ATL",
       "pos": "TE",
       "adp": "1700.3",
       "tier": 14
