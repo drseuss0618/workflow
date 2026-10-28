@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T15:06:43.759Z",
+  "updatedAt": "2026-10-28T15:42:59.381Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -1278,13 +1278,6 @@
       "tier": 1
     },
     {
-      "name": "Justin Tucker",
-      "team": "",
-      "pos": "K",
-      "adp": "299.6",
-      "tier": 1
-    },
-    {
       "name": "Baltimore Ravens",
       "team": "BAL",
       "pos": "DEF",
@@ -2175,7 +2168,7 @@
     },
     {
       "name": "Emari Demercado",
-      "team": "DAL",
+      "team": "",
       "pos": "RB",
       "adp": "503.8",
       "tier": 1
@@ -3211,7 +3204,7 @@
     },
     {
       "name": "Zay Jones",
-      "team": "",
+      "team": "ARI",
       "pos": "WR",
       "adp": "745.5",
       "tier": 1
@@ -4597,14 +4590,14 @@
     },
     {
       "name": "Jaret Patterson",
-      "team": "CLE",
+      "team": "",
       "pos": "RB",
       "adp": "1116.5",
       "tier": 1
     },
     {
       "name": "Josiah Deguara",
-      "team": "SEA",
+      "team": "",
       "pos": "TE",
       "adp": "1118.2",
       "tier": 1
@@ -5654,7 +5647,7 @@
     },
     {
       "name": "Carsen Ryan",
-      "team": "",
+      "team": "CLE",
       "pos": "TE",
       "adp": "1567.5",
       "tier": 13
@@ -5773,7 +5766,7 @@
     },
     {
       "name": "Jamari Thrash",
-      "team": "LV",
+      "team": "",
       "pos": "WR",
       "adp": "1603.3",
       "tier": 13
@@ -6025,7 +6018,7 @@
     },
     {
       "name": "Jason Brownlee",
-      "team": "NYG",
+      "team": "",
       "pos": "WR",
       "adp": "1691.8",
       "tier": 14
@@ -6039,7 +6032,7 @@
     },
     {
       "name": "Ben Sims",
-      "team": "",
+      "team": "SEA",
       "pos": "TE",
       "adp": "1695.2",
       "tier": 14
