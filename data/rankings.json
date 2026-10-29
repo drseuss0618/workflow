@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T15:42:59.381Z",
+  "updatedAt": "2026-10-29T15:50:08.911Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -2168,7 +2168,7 @@
     },
     {
       "name": "Emari Demercado",
-      "team": "",
+      "team": "HOU",
       "pos": "RB",
       "adp": "503.8",
       "tier": 1
@@ -2178,13 +2178,6 @@
       "team": "GB",
       "pos": "K",
       "adp": "505.5",
-      "tier": 1
-    },
-    {
-      "name": "Joshua Karty",
-      "team": "",
-      "pos": "K",
-      "adp": "507.2",
       "tier": 1
     },
     {
@@ -5265,6 +5258,13 @@
       "team": "",
       "pos": "TE",
       "adp": "1404.2",
+      "tier": 10
+    },
+    {
+      "name": "Joshua Karty",
+      "team": "LAR",
+      "pos": "K",
+      "adp": "1405.9",
       "tier": 10
     },
     {
