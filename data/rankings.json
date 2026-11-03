@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T19:09:48.614Z",
+  "updatedAt": "2026-11-03T16:49:19.394Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -2077,7 +2077,7 @@
     },
     {
       "name": "Audric Estimé",
-      "team": "CLE",
+      "team": "",
       "pos": "RB",
       "adp": "485.1",
       "tier": 1
@@ -3981,7 +3981,7 @@
     },
     {
       "name": "Cam Miller",
-      "team": "",
+      "team": "GB",
       "pos": "QB",
       "adp": "948.0",
       "tier": 1
@@ -5115,7 +5115,7 @@
     },
     {
       "name": "Terrell Jennings",
-      "team": "",
+      "team": "NE",
       "pos": "RB",
       "adp": "1349.7",
       "tier": 9
@@ -5283,7 +5283,7 @@
     },
     {
       "name": "Eric Gray",
-      "team": "",
+      "team": "NYG",
       "pos": "RB",
       "adp": "1424.6",
       "tier": 11
