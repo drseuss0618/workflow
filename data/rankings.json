@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T16:49:19.394Z",
+  "updatedAt": "2026-11-04T16:49:14.910Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -2077,7 +2077,7 @@
     },
     {
       "name": "Audric Estimé",
-      "team": "",
+      "team": "NO",
       "pos": "RB",
       "adp": "485.1",
       "tier": 1
@@ -3323,7 +3323,7 @@
     },
     {
       "name": "Daniel Carlson",
-      "team": "NO",
+      "team": "",
       "pos": "K",
       "adp": "777.8",
       "tier": 1
@@ -3869,7 +3869,7 @@
     },
     {
       "name": "Hassan Haskins",
-      "team": "",
+      "team": "CLE",
       "pos": "RB",
       "adp": "919.1",
       "tier": 1
@@ -4583,7 +4583,7 @@
     },
     {
       "name": "Jaret Patterson",
-      "team": "",
+      "team": "DEN",
       "pos": "RB",
       "adp": "1116.5",
       "tier": 1
@@ -5626,7 +5626,7 @@
     },
     {
       "name": "Bub Means",
-      "team": "CLE",
+      "team": "",
       "pos": "WR",
       "adp": "1559.0",
       "tier": 13
