@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T16:49:14.910Z",
+  "updatedAt": "2026-11-05T17:04:29.825Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -3057,7 +3057,7 @@
     },
     {
       "name": "Zaire Mitchell-Paden",
-      "team": "HOU",
+      "team": "",
       "pos": "TE",
       "adp": "713.1",
       "tier": 1
@@ -4261,7 +4261,7 @@
     },
     {
       "name": "Adrian Martinez",
-      "team": "",
+      "team": "SEA",
       "pos": "QB",
       "adp": "1026.3",
       "tier": 1
@@ -4366,7 +4366,7 @@
     },
     {
       "name": "Cody White",
-      "team": "LV",
+      "team": "",
       "pos": "WR",
       "adp": "1058.6",
       "tier": 1
