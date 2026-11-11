@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T16:45:51.663Z",
+  "updatedAt": "2026-11-11T16:52:19.979Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -789,7 +789,7 @@
     },
     {
       "name": "Josh Downs",
-      "team": "IND",
+      "team": "KC",
       "pos": "WR",
       "adp": "185.5",
       "tier": 1
@@ -1426,7 +1426,7 @@
     },
     {
       "name": "Keenan Allen",
-      "team": "IND",
+      "team": "SF",
       "pos": "WR",
       "adp": "333.6",
       "tier": 1
@@ -1720,7 +1720,7 @@
     },
     {
       "name": "Jaydon Blue",
-      "team": "PHI",
+      "team": "",
       "pos": "RB",
       "adp": "406.8",
       "tier": 1
@@ -1741,7 +1741,7 @@
     },
     {
       "name": "Kendre Miller",
-      "team": "",
+      "team": "DAL",
       "pos": "RB",
       "adp": "410.2",
       "tier": 1
@@ -1965,7 +1965,7 @@
     },
     {
       "name": "Kirk Cousins",
-      "team": "LV",
+      "team": "MIN",
       "pos": "QB",
       "adp": "461.2",
       "tier": 1
@@ -2203,7 +2203,7 @@
     },
     {
       "name": "Jarquez Hunter",
-      "team": "NO",
+      "team": "",
       "pos": "RB",
       "adp": "510.6",
       "tier": 1
@@ -2231,7 +2231,7 @@
     },
     {
       "name": "Jake Moody",
-      "team": "BAL",
+      "team": "ATL",
       "pos": "K",
       "adp": "519.1",
       "tier": 1
@@ -2322,7 +2322,7 @@
     },
     {
       "name": "Nick Folk",
-      "team": "ATL",
+      "team": "",
       "pos": "K",
       "adp": "541.2",
       "tier": 1
@@ -3057,7 +3057,7 @@
     },
     {
       "name": "Zaire Mitchell-Paden",
-      "team": "",
+      "team": "CLE",
       "pos": "TE",
       "adp": "713.1",
       "tier": 1
@@ -3309,7 +3309,7 @@
     },
     {
       "name": "Stone Smartt",
-      "team": "NO",
+      "team": "",
       "pos": "TE",
       "adp": "772.7",
       "tier": 1
@@ -4905,7 +4905,7 @@
     },
     {
       "name": "David Sills V",
-      "team": "TB",
+      "team": "",
       "pos": "WR",
       "adp": "1261.2",
       "tier": 6
@@ -5073,7 +5073,7 @@
     },
     {
       "name": "David Moore",
-      "team": "CAR",
+      "team": "",
       "pos": "WR",
       "adp": "1331.0",
       "tier": 8
@@ -5269,7 +5269,7 @@
     },
     {
       "name": "Nick Vannett",
-      "team": "BAL",
+      "team": "",
       "pos": "TE",
       "adp": "1414.4",
       "tier": 11
@@ -5710,7 +5710,7 @@
     },
     {
       "name": "Nikko Remigio",
-      "team": "KC",
+      "team": "",
       "pos": "WR",
       "adp": "1584.6",
       "tier": 13
@@ -5843,7 +5843,7 @@
     },
     {
       "name": "Xavier Smith",
-      "team": "SF",
+      "team": "LAR",
       "pos": "WR",
       "adp": "1628.8",
       "tier": 13
@@ -5941,7 +5941,7 @@
     },
     {
       "name": "Hayden Rucci",
-      "team": "LAC",
+      "team": "",
       "pos": "TE",
       "adp": "1661.2",
       "tier": 13
