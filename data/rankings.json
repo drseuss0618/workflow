@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T16:52:19.979Z",
+  "updatedAt": "2026-11-12T17:20:13.879Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -1321,7 +1321,7 @@
     },
     {
       "name": "Harrison Mevis",
-      "team": "",
+      "team": "BAL",
       "pos": "K",
       "adp": "309.8",
       "tier": 1
@@ -2392,7 +2392,7 @@
     },
     {
       "name": "Riley Patterson",
-      "team": "",
+      "team": "BAL",
       "pos": "K",
       "adp": "556.6",
       "tier": 1
@@ -5073,7 +5073,7 @@
     },
     {
       "name": "David Moore",
-      "team": "",
+      "team": "CAR",
       "pos": "WR",
       "adp": "1331.0",
       "tier": 8
@@ -5269,7 +5269,7 @@
     },
     {
       "name": "Nick Vannett",
-      "team": "",
+      "team": "BAL",
       "pos": "TE",
       "adp": "1414.4",
       "tier": 11
