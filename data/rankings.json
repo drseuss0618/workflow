@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T17:20:13.879Z",
+  "updatedAt": "2026-11-13T16:56:10.728Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -2294,7 +2294,7 @@
     },
     {
       "name": "Hollywood Brown",
-      "team": "PHI",
+      "team": "",
       "pos": "WR",
       "adp": "536.1",
       "tier": 1
@@ -2672,7 +2672,7 @@
     },
     {
       "name": "Tyler Scott",
-      "team": "LV",
+      "team": "LAR",
       "pos": "WR",
       "adp": "619.5",
       "tier": 1
@@ -3274,7 +3274,7 @@
     },
     {
       "name": "Dare Ogunbowale",
-      "team": "HOU",
+      "team": "",
       "pos": "RB",
       "adp": "764.2",
       "tier": 1
@@ -5213,7 +5213,7 @@
     },
     {
       "name": "Chris Collier",
-      "team": "LV",
+      "team": "",
       "pos": "RB",
       "adp": "1390.5",
       "tier": 10
