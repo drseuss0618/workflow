@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T16:03:20.891Z",
+  "updatedAt": "2026-11-16T19:14:59.666Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -1720,7 +1720,7 @@
     },
     {
       "name": "Jaydon Blue",
-      "team": "",
+      "team": "PHI",
       "pos": "RB",
       "adp": "406.8",
       "tier": 1
@@ -3336,16 +3336,16 @@
       "tier": 1
     },
     {
-      "name": "Cam Akers",
-      "team": "",
-      "pos": "RB",
+      "name": "Jalen Tolbert",
+      "team": "MIA",
+      "pos": "WR",
       "adp": "781.2",
       "tier": 1
     },
     {
-      "name": "Jalen Tolbert",
-      "team": "MIA",
-      "pos": "WR",
+      "name": "Cam Akers",
+      "team": "",
+      "pos": "RB",
       "adp": "781.2",
       "tier": 1
     },
@@ -3512,7 +3512,7 @@
     },
     {
       "name": "Cooper Rush",
-      "team": "",
+      "team": "TB",
       "pos": "QB",
       "adp": "828.9",
       "tier": 1
@@ -4660,7 +4660,7 @@
     },
     {
       "name": "Harrison Bryant",
-      "team": "",
+      "team": "IND",
       "pos": "TE",
       "adp": "1142.0",
       "tier": 2
@@ -4877,7 +4877,7 @@
     },
     {
       "name": "Zane Gonzalez",
-      "team": "MIA",
+      "team": "",
       "pos": "K",
       "adp": "1252.7",
       "tier": 6
@@ -5941,7 +5941,7 @@
     },
     {
       "name": "Hayden Rucci",
-      "team": "",
+      "team": "PHI",
       "pos": "TE",
       "adp": "1661.2",
       "tier": 13
