@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T19:14:59.666Z",
+  "updatedAt": "2026-11-17T18:07:33.803Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -914,7 +914,7 @@
       "tier": 1
     },
     {
-      "name": "Brian Robinson",
+      "name": "Brian Robinson Jr.",
       "team": "ATL",
       "pos": "RB",
       "adp": "216.2",
@@ -2384,16 +2384,16 @@
       "tier": 1
     },
     {
-      "name": "Taysom Hill",
-      "team": "",
-      "pos": "QB",
+      "name": "Riley Patterson",
+      "team": "BAL",
+      "pos": "K",
       "adp": "556.6",
       "tier": 1
     },
     {
-      "name": "Riley Patterson",
-      "team": "BAL",
-      "pos": "K",
+      "name": "Taysom Hill",
+      "team": "",
+      "pos": "QB",
       "adp": "556.6",
       "tier": 1
     },
@@ -4233,7 +4233,7 @@
     },
     {
       "name": "Michael Carter",
-      "team": "",
+      "team": "TEN",
       "pos": "RB",
       "adp": "1017.8",
       "tier": 1
@@ -4905,7 +4905,7 @@
     },
     {
       "name": "David Sills V",
-      "team": "",
+      "team": "TB",
       "pos": "WR",
       "adp": "1261.2",
       "tier": 6
@@ -5626,7 +5626,7 @@
     },
     {
       "name": "Bub Means",
-      "team": "KC",
+      "team": "",
       "pos": "WR",
       "adp": "1559.0",
       "tier": 13
@@ -5913,7 +5913,7 @@
     },
     {
       "name": "Xavier Gipson",
-      "team": "PHI",
+      "team": "NYG",
       "pos": "WR",
       "adp": "1652.6",
       "tier": 13
@@ -5990,7 +5990,7 @@
     },
     {
       "name": "Charlie Jones",
-      "team": "NYG",
+      "team": "",
       "pos": "WR",
       "adp": "1686.7",
       "tier": 14
@@ -6018,7 +6018,7 @@
     },
     {
       "name": "Jason Brownlee",
-      "team": "",
+      "team": "TEN",
       "pos": "WR",
       "adp": "1691.8",
       "tier": 14
