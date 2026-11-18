@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T18:07:33.803Z",
+  "updatedAt": "2026-11-18T17:46:11.261Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -1321,7 +1321,7 @@
     },
     {
       "name": "Harrison Mevis",
-      "team": "BAL",
+      "team": "",
       "pos": "K",
       "adp": "309.8",
       "tier": 1
@@ -3323,7 +3323,7 @@
     },
     {
       "name": "Daniel Carlson",
-      "team": "",
+      "team": "MIA",
       "pos": "K",
       "adp": "777.8",
       "tier": 1
@@ -4261,7 +4261,7 @@
     },
     {
       "name": "Adrian Martinez",
-      "team": "SEA",
+      "team": "",
       "pos": "QB",
       "adp": "1026.3",
       "tier": 1
@@ -5171,7 +5171,7 @@
     },
     {
       "name": "Lenny Krieg",
-      "team": "GB",
+      "team": "",
       "pos": "K",
       "adp": "1366.7",
       "tier": 9
@@ -5283,7 +5283,7 @@
     },
     {
       "name": "Eric Gray",
-      "team": "NYG",
+      "team": "",
       "pos": "RB",
       "adp": "1424.6",
       "tier": 11
@@ -5331,16 +5331,16 @@
       "tier": 12
     },
     {
-      "name": "Seth Henigan",
-      "team": "",
-      "pos": "QB",
+      "name": "Kendrick Law",
+      "team": "DET",
+      "pos": "WR",
       "adp": "1451.8",
       "tier": 12
     },
     {
-      "name": "Kendrick Law",
-      "team": "DET",
-      "pos": "WR",
+      "name": "Seth Henigan",
+      "team": "",
+      "pos": "QB",
       "adp": "1451.8",
       "tier": 12
     },
@@ -5647,7 +5647,7 @@
     },
     {
       "name": "Carsen Ryan",
-      "team": "CLE",
+      "team": "",
       "pos": "TE",
       "adp": "1567.5",
       "tier": 13
@@ -5766,7 +5766,7 @@
     },
     {
       "name": "Jamari Thrash",
-      "team": "",
+      "team": "TEN",
       "pos": "WR",
       "adp": "1603.3",
       "tier": 13
