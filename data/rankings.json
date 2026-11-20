@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T17:57:26.039Z",
+  "updatedAt": "2026-11-20T17:31:20.111Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -4303,7 +4303,7 @@
     },
     {
       "name": "Pierre Strong Jr.",
-      "team": "GB",
+      "team": "",
       "pos": "RB",
       "adp": "1039.9",
       "tier": 1
@@ -4583,7 +4583,7 @@
     },
     {
       "name": "Josiah Deguara",
-      "team": "",
+      "team": "LAC",
       "pos": "TE",
       "adp": "1118.2",
       "tier": 1
@@ -5640,7 +5640,7 @@
     },
     {
       "name": "Carsen Ryan",
-      "team": "",
+      "team": "CLE",
       "pos": "TE",
       "adp": "1567.5",
       "tier": 13
@@ -5923,13 +5923,6 @@
       "team": "NO",
       "pos": "TE",
       "adp": "1657.7",
-      "tier": 13
-    },
-    {
-      "name": "Malik Heath",
-      "team": "",
-      "pos": "WR",
-      "adp": "1659.4",
       "tier": 13
     },
     {
