@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T17:31:20.111Z",
+  "updatedAt": "2026-11-21T16:35:22.606Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -1454,7 +1454,7 @@
     },
     {
       "name": "Daniel Jones",
-      "team": "IND",
+      "team": "",
       "pos": "QB",
       "adp": "340.4",
       "tier": 1
@@ -4387,7 +4387,7 @@
     },
     {
       "name": "Ihmir Smith-Marsette",
-      "team": "CAR",
+      "team": "",
       "pos": "WR",
       "adp": "1063.8",
       "tier": 1
