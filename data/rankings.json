@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T20:51:08.070Z",
+  "updatedAt": "2026-11-24T19:55:12.755Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -1846,7 +1846,7 @@
     },
     {
       "name": "Brandon Aiyuk",
-      "team": "SF",
+      "team": "",
       "pos": "WR",
       "adp": "434.0",
       "tier": 1
@@ -4261,7 +4261,7 @@
     },
     {
       "name": "Adrian Martinez",
-      "team": "",
+      "team": "SEA",
       "pos": "QB",
       "adp": "1026.3",
       "tier": 1
@@ -5276,7 +5276,7 @@
     },
     {
       "name": "Eric Gray",
-      "team": "",
+      "team": "IND",
       "pos": "RB",
       "adp": "1424.6",
       "tier": 11
