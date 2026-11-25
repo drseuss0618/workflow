@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:55:12.755Z",
+  "updatedAt": "2026-11-25T18:57:50.137Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -2938,7 +2938,7 @@
     },
     {
       "name": "LaJohntay Wester",
-      "team": "BAL",
+      "team": "",
       "pos": "WR",
       "adp": "679.1",
       "tier": 1
@@ -3512,7 +3512,7 @@
     },
     {
       "name": "Cooper Rush",
-      "team": "TB",
+      "team": "",
       "pos": "QB",
       "adp": "828.9",
       "tier": 1
@@ -4142,7 +4142,7 @@
     },
     {
       "name": "Shane Buechele",
-      "team": "BUF",
+      "team": "IND",
       "pos": "QB",
       "adp": "997.4",
       "tier": 1
@@ -4583,7 +4583,7 @@
     },
     {
       "name": "Josiah Deguara",
-      "team": "LAC",
+      "team": "",
       "pos": "TE",
       "adp": "1118.2",
       "tier": 1
@@ -4604,7 +4604,7 @@
     },
     {
       "name": "Sean McKeon",
-      "team": "",
+      "team": "IND",
       "pos": "TE",
       "adp": "1123.3",
       "tier": 1
@@ -4723,7 +4723,7 @@
     },
     {
       "name": "Craig Reynolds",
-      "team": "WAS",
+      "team": "",
       "pos": "RB",
       "adp": "1174.4",
       "tier": 3
@@ -5486,7 +5486,7 @@
     },
     {
       "name": "Theo Wease Jr.",
-      "team": "LAC",
+      "team": "",
       "pos": "WR",
       "adp": "1511.4",
       "tier": 12
