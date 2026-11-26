@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T18:57:50.137Z",
+  "updatedAt": "2026-11-26T18:48:27.665Z",
   "season": "2026",
   "tierLabels": [
     "Elite Anchors",
@@ -1846,7 +1846,7 @@
     },
     {
       "name": "Brandon Aiyuk",
-      "team": "",
+      "team": "WAS",
       "pos": "WR",
       "adp": "434.0",
       "tier": 1
@@ -1979,7 +1979,7 @@
     },
     {
       "name": "Aaron Rodgers",
-      "team": "PIT",
+      "team": "",
       "pos": "QB",
       "adp": "464.6",
       "tier": 1
@@ -3274,7 +3274,7 @@
     },
     {
       "name": "Dare Ogunbowale",
-      "team": "HOU",
+      "team": "",
       "pos": "RB",
       "adp": "764.2",
       "tier": 1
@@ -5486,7 +5486,7 @@
     },
     {
       "name": "Theo Wease Jr.",
-      "team": "",
+      "team": "LAC",
       "pos": "WR",
       "adp": "1511.4",
       "tier": 12
